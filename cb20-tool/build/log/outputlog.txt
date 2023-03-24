@@ -1,0 +1,26 @@
+level=info msg="Init Logrus successfully" func=cb20-tool/core.InitLogrus file="/home/bryan/workspace/02-TOOL/cb20-tool/core/logrus_conf.go:36"
+level=info msg="Init Logrus successfully" func=cb20-tool/core.InitLogrus file="/home/bryan/workspace/02-TOOL/cb20-tool/core/logrus_conf.go:37"
+time="2023-03-24T01:23:47+07:00" level=info msg="Init Logrus successfully"
+level=info msg="Init Logrus successfully" func=cb20-tool/core.InitLogrus file="/home/bryan/workspace/02-TOOL/cb20-tool/core/logrus_conf.go:37"
+
+
+
+level=info msg="Init Logrus successfully" func=cb20-tool/core.InitLogrus file="/home/bryan/workspace/02-TOOL/cb20-tool/core/logrus_conf.go:37"
+level=info msg="Init Logrus successfully" func=cb20-tool/core.InitLogrus file="/home/bryan/workspace/02-TOOL/cb20-tool/core/logrus_conf.go:37"
+level=info msg="Init Logrus successfully" func=cb20-tool/core.InitLogrus file="/home/bryan/workspace/02-TOOL/cb20-tool/core/logrus_conf.go:38"
+time="2023-03-24T01:41:42+07:00" level=info msg="Init Logrus successfully" func=cb20-tool/core.InitLogrus file="/home/bryan/workspace/02-TOOL/cb20-tool/core/logrus_conf.go:41"
+time="2023-03-24T01:43:25+07:00" level=info msg="Init Logrus successfully" func=cb20-tool/core.InitLogrus file="/home/bryan/workspace/02-TOOL/cb20-tool/core/logrus_conf.go:41"
+time="2023-03-24T01:43:58+07:00" level=info msg="Init Logrus successfully" func=cb20-tool/core.InitLogrus file="/home/bryan/workspace/02-TOOL/cb20-tool/core/logrus_conf.go:41"
+time="2023-03-24T01:46:47+07:00" level=info msg="Init Logrus successfully"
+level=info msg="Init Logrus successfully"
+[INFO]: 2023-03-24 01:48:22 - Init Logrus successfully
+[INFO]: 2023-03-24 01:49:37 - Init Logrus successfully
+[INFO]: 2023-03-24 01:53:19 - Init Logrus successfully
+[INFO]: YY-MM-DD - Init Logrus successfully
+[INFO]: %YY-%MM-%DD - Init Logrus successfully
+[INFO]: %YY%-%MM%-%DD% - Init Logrus successfully
+[INFO]: %yy%-%mm%-%dd% - Init Logrus successfully
+[INFO]: 2023-03-24 01:58:43 - Init Logrus successfully
+[INFO]: 2023-03-24 01:59:02 - Init Logrus successfully
+[INFO]: 2023-03-24 01:59:44 - Init Logrus successfully
+[INFO]: 2023-03-24 01:59:59 - Init Logrus successfully
